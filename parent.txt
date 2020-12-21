@@ -1,0 +1,2 @@
+www.google.com,8.8.8.8,300
+www.biu.ac.il,1.2.3.4,8
